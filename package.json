@@ -1,0 +1,27 @@
+{
+  "name": "libsearcher-backend",
+  "version": "1.0.0",
+  "description": "Backend for LibSearcher by Protomate AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llm-iiserb/libsearcher-backend.git"
+  },
+  "author": "Protomate AI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llm-iiserb/libsearcher-backend/issues"
+  },
+  "homepage": "https://github.com/llm-iiserb/libsearcher-backend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.12.11",
+    "typescript": "^5.4.5"
+  }
+}
